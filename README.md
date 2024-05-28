@@ -18,7 +18,7 @@
 
 
 
-- [Install spaCy](https://spacy.io/)
+#### [Install spaCy](https://spacy.io/)
 (This is my env you should check your env)
 ```
 conda install -c conda-forge spacy
