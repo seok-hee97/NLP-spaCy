@@ -19,5 +19,13 @@
 
 
 
+- [Install spaCy](https://spacy.io/)
+(This is my env you should check your env)
+```
+conda install -c conda-forge spacy
+python -m spacy download en_core_web_sm
+```
+
 #### Reference
 - [Natural Language Processing with spaCy & Python - Course for Beginners](https://www.youtube.com/watch?v=dIUTsFT2MeQ)
+- [Python Tutorials for Digital Humanities](https://www.youtube.com/@python-programming/playlists)
