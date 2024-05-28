@@ -18,7 +18,6 @@
 
 
 
-
 - [Install spaCy](https://spacy.io/)
 (This is my env you should check your env)
 ```
